@@ -11,6 +11,16 @@ tl;dr
 * 5 pts per item!
 * For a rubric on how to write this, see Chapter 10 in JABSTB. Follow that multi-step format!!!
 
+Code chunk example:
+```
+# this is code
+a <- fitdecay1(x, y, half$data, 1, 0, 100, weigh=F)
+if (isAwesome){
+  return true
+}
+```
+## Instructions
+
 1. Provide a brief background and significance about a specific research problem that interests you. It could be project you’re involved with now, or a rotation project, or something you’d like to work on. The reader will need to understand enough background to make sense of the experiment you propose below. Keep it brief. In one short paragraph.
 
 2. Briefly state something that is unknown about this system that can be discovered through, and leads to, an experiment.  For example, "It is not known whether....."
